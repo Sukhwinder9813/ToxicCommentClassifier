@@ -1,1 +1,2 @@
 # ToxicCommentClassifier
+This was a challenge on Kaggle.Various comments were given and objective was to classify these comments into different categories of toxicity such as insult,threat,hate etc.The model is made using bidirectional LSTMs and various techniques of Natural Language Processing using NLTK.The embedding layer was made using the Glove embedding with 6 Billion Words represented as 50 Dimensional vectors.
